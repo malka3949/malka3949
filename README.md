@@ -25,9 +25,14 @@ I strive to deliver consistent, quality code and contribute meaningfully to prod
 
 ## 🛠️ Languages & Tools
 
-`C` `C++` `C#` `.NET` `Python` `Java` `Node.js` `Angular` `React`  
-`JavaScript` `HTML5` `CSS3` `MySQL` `MongoDB` `SQL Server`  
-`Docker` `Git` `Linux` `Windows` `Blazor`
+## 🛠️ Languages & Tools
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40"/>
 
 ---
 
