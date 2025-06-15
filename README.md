@@ -14,12 +14,13 @@ I strive to deliver consistent, quality code and contribute meaningfully to prod
 ## 📁 Featured Projects
 
 ### 🧀 Dairy Restaurant Website – C#, Angular, SQL
-- 🔗 **Server Side** – Clean 3-layer architecture with dependency injection and calculated fields  
-- 🔗 **Client Side** – Reactive forms and user interaction using Angular modules
+- 🔗 **[Server Side](https://github.com/malka3949/Dairy-restaurant-website-server)** – Clean 3-layer architecture with dependency injection and calculated fields  
+- 🔗 **[Client Side](https://github.com/malka3949/Dairy-restaurant-website-client)** – Reactive forms and user interaction using Angular modules
 
 ### 🏘 Apartment Marketing Website – Node.js, React, MongoDB
-- 🔗 **Server Side** – RESTful APIs, Mongoose ODM, secure authentication  
-- 🔗 **Client Side** – Reusable React components and responsive layout
+- 🔗 **[Server Side](https://github.com/malka3949/Renting-Apartments-server)** – RESTful APIs, Mongoose ODM, secure authentication  
+- 🔗 **[Client Side](https://github.com/malka3949/Renting-Apartments-client)** – Reusable React components and responsive layout
+
 
 ---
 
