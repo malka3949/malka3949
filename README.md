@@ -1,4 +1,3 @@
-![View Malka Shtrauss's avatar](https://avatars.githubusercontent.com/u/YOUR-ID?v=4)
 # 👋 Hi, I'm Malka Shtrauss
 
 🎯 Full Stack Developer with a passion for clean architecture, efficient systems, and intuitive UI/UX.
